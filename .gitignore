@@ -1,0 +1,5 @@
+LOS/bin
+LOS/lib
+LOS/include
+.env
+pyvenv.cfg
