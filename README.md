@@ -1,7 +1,7 @@
 # SQL-Injector
 
 가상환경 시작
-source myenv/bin/activate
+source LOS/bin/activate 
 
 가상환경 종료
 deactivate
