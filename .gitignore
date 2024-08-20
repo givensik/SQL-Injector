@@ -1,5 +1,9 @@
 LOS/bin
 LOS/lib
 LOS/include
+SQLi/bin
+SQLi/lib
+SQLi/include
+SQLi/share
 .env
 pyvenv.cfg
